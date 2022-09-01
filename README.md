@@ -11,7 +11,6 @@ I am a student studying Technology/Data.<br>
 ## 🔭 I’m currently working on ... 
 </br>
 </br>
-</br>
 
 ## 📫 Contact to me
 
