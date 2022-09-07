@@ -2,7 +2,7 @@
 
 # Shin Mu Jin
 Hi there! Welcome to my Github!<br>
-I am a student majoring in Technology/Data.<br>
+I’m a student majoring in Technology / Data & Industrial Engineering.<br>
 
 
 ## 🎓 Education
