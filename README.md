@@ -11,6 +11,7 @@ I’m a student majoring in Technology / Data & Industrial Engineering.<br>
 ## 🔭 I’m currently working on ... 
 </br>
 PKNU Data Scientis Study (2022.07 ~ )
+
 PKNU Financial Data Analysis Study (2022.09 ~ )
 
 ## 📫 Contact to me
