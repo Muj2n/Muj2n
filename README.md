@@ -14,6 +14,7 @@ PKNU Data Scientis Study (2022.07 ~ )
 
 PKNU Financial Data Analysis Study (2022.09 ~ )
 
+
 ## 📫 Contact to me
 
 <a href="mailto:anwls1634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
