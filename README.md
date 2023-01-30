@@ -28,6 +28,9 @@ KT AIVLE SCHOOL - DX Consultant (2023.02 ~ )
 
 <a href="mailto:anwls1634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="www.linkedin.com/in/muj2n" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+
+## 📝 Portfolio
 <a href="https://muj2n.notion.site/Hello-I-m-MuJin-Shin-998cb57712644c1b83d72b6b9c5c3095" target="_blank"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
