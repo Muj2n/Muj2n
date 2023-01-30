@@ -10,9 +10,14 @@ I’m a student majoring in Technology / Data & Industrial Engineering.<br>
 
 ## 🔭 I’m currently working on ... 
 </br>
-PKNU Data Scientis Study (2022.07 ~ )
+Data Analysis Study (2022.07 ~ )
 
 PKNU Financial Data Analysis Study (2022.09 ~ )
+
+PKNU Data Analysis Study (2023.02 ~ )
+
+KT AIVLE SCHOOL - DX Consultant(2023.02 ~ )
+
 
 
 ## 📫 Contact to me
