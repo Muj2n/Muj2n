@@ -10,6 +10,7 @@ I’m a student majoring in Technology / Data & Industrial Engineering.<br>
 
 ## 🔭 I’m currently working on ... 
 </br>
+
 Data Analysis Study (2022.07 ~ )
 
 
