@@ -27,7 +27,7 @@ KT AIVLE SCHOOL - DX Consultant (2023.02 ~ )
 ## 📫 Contact to me
 
 <a href="mailto:anwls1634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/muj2n/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muj2n/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
 ## 📝 Portfolio
