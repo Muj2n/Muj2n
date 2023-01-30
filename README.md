@@ -6,7 +6,7 @@ I’m a student majoring in Technology / Data & Industrial Engineering.<br>
 
 
 ## 🎓 Education
-- Pukyong National University, Technology/Data, 4th Grade
+- Pukyong National University, Technology/Data, bachelor's degree
 
 ## 🔭 I’m currently working on ... 
 </br>
