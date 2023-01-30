@@ -22,9 +22,13 @@ KT AIVLE SCHOOL - DX Consultant (2023.02 ~ )
 
 
 
+
+
 ## 📫 Contact to me
 
 <a href="mailto:anwls1634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%AC%B4%EC%A7%84-%EC%8B%A0-8747a1255/a" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://velog.io/@ckh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
 I've used at least once. <br>
