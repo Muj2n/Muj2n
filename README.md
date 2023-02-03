@@ -10,7 +10,7 @@ I am a bachelor's degree in technical/data and industrial engineering.<br>
 
 ## 🔭 I’m currently working on ... 
 
-Data Analysis Study (2022.07 ~ )
+Python Data Analysis Study (2022.07 ~ )
 
 PKNU Financial Data Analysis Study (2022.09 ~ )
 
