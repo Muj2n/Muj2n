@@ -1,18 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuj2n&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Shin Mu Jin
-Hi there! Welcome to my Github!<br>
-I’m a student majoring in Technology / Data & Industrial Engineering.<br>
+Welcome to my Github :)<br>
+I am a bachelor's degree in technical/data and industrial engineering.<br>
 
 
 ## 🎓 Education
-- Pukyong National University, Technology/Data, bachelor's degree
+- Pukyong National University, Technology/Data
 
 ## 🔭 I’m currently working on ... 
-</br>
 
 Data Analysis Study (2022.07 ~ )
-
 
 PKNU Financial Data Analysis Study (2022.09 ~ )
 
@@ -20,7 +18,7 @@ PKNU Data Analysis Study (2023.02 ~ )
 
 KT AIVLE SCHOOL - DX Consultant (2023.02 ~ )
 
-
+KT AIVLE Data Analysis Study (2023.02 ~ )
 
 
 
