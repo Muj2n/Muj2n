@@ -12,7 +12,7 @@ I am a bachelor's degree in technical/data and industrial engineering.<br>
 
 Python Data Analysis Study (2022.07 ~ )
 
-PKNU Financial Data Analysis Study (2022.09 ~ )
+PKNU Financial Data Analysis Study (2022.09 ~ 2022.12)
 
 PKNU Data Analysis Study (2023.02 ~ )
 
