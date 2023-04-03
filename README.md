@@ -34,7 +34,7 @@ KT AIVLE Data Analysis Study (2023.02 ~ )
 <a href="https://muj2n.notion.site/Hello-I-m-MuJin-Shin-998cb57712644c1b83d72b6b9c5c3095" target="_blank"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/R-4479F1?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
