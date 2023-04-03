@@ -1,4 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuj2n&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20My%20Space👋&fontSize=50)
+
+
 
 # Shin Mu Jin
 > In order to get what you want, that amount of effort must be backed up, and you must be active in communication
@@ -47,10 +49,10 @@ I've used at least once. <br>
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=Muj2n&hide_border=false&theme=tokyonight" width="400">
+   <img src="https://github-readme-stats.vercel.app/api?username=Muj2n&hide_border=false&theme=dark" width="300">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muj2n&hide_border=false&theme=tokyonight&layout=compact" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muj2n&hide_border=false&theme=dark&layout=compact" width="300">
   </td>
  </tr>
 </table>  
