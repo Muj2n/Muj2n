@@ -48,10 +48,10 @@ KT AIVLE Data Analysis Study (2023.02 ~ )
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=Muj2n&hide_border=false&theme=dark" width="300">
+   <img src="https://github-readme-stats.vercel.app/api?username=Muj2n&hide_border=false&theme=Gradient" width="300">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muj2n&hide_border=false&theme=dark&layout=compact" width="300">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muj2n&hide_border=false&theme=Gradient" width="300">
   </td>
  </tr>
 </table>  
