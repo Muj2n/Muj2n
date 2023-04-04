@@ -45,12 +45,12 @@ KT AIVLE Data Analysis Study (2023.02 ~ )
 
 
 ## 😁 Github Stats  
-<table width="100%">
+<table width="50%">
  <tr>
-  <td valign="top" width="50%">
+  <td valign="mid" width="50%">
    <img src="https://github-readme-stats.vercel.app/api?username=Muj2n&hide_border=false&theme=Gradient" width="300">
   </td>
-  <td valign="top" width="50%">
+  <td valign="mid" width="50%">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muj2n&hide_border=false&theme=Gradient" width="300">
   </td>
  </tr>
