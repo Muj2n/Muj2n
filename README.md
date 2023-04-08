@@ -37,8 +37,8 @@ KT AIVLE Data Analysis Study (2023.02 ~ )
 <img src="https://img.shields.io/badge/R-4479F1?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-E34F26?style=flat-square&logo=PowerBI&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tableau-1572B6?style=flat-square&logo=Tableau&logoColor=white"/>
 
 
 ## 📫 Contact to me
