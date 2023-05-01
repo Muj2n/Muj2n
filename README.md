@@ -14,7 +14,7 @@ KT AIVLE SCHOOL - DX Consultant Track
 
 Python Data Analysis Study (2022.07 ~ 2023.03)
 
-PKNU Financial Data Analysis Study (2022.09 ~ 2022.12)
+PKNU Financial Data Analysis Study (2022.09 ~ )
 
 PKNU Data Analysis Study (2023.02 ~ )
 
