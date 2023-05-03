@@ -3,7 +3,7 @@
 
 
 # Shin Mu Jin
-> In order to get what you want, that amount of effort must be backed up, and you must be active in communication
+> There is no talent to beat effort, and there is no result to turn a blind eye to effort.
 
 
 ## 🎓 Education
