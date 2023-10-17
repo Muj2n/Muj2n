@@ -18,9 +18,9 @@ PKNU Financial Data Analysis Study (2022.09 ~ 2022.12)
 
 PKNU Data Analysis Study (2023.02 ~ )
 
-KT AIVLE SCHOOL - DX Consultant (2023.02 ~ )
+KT AIVLE SCHOOL - DX Consultant (2023.02 ~ 2023.07)
 
-KT AIVLE Data Analysis Study (2023.02 ~ )
+KT AIVLE Data Analysis Study (2023.02 ~ 2023.06)
 
 
 
