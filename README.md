@@ -9,14 +9,14 @@
 ## 🎓 Education
 Pukyong National University, Bachelor of Science in Technology·Data Engineering
 
-KT AIVLE SCHOOL - DX Consultant Track
+KT AIVLE SCHOOL - DX Consultant Track (2023.01 ~ 2023.07)
 ## 🚀 Activities 
 
 Python Data Analysis Study (2022.07 ~ 2023.03)
 
 PKNU Financial Data Analysis Study (2022.09 ~ 2022.12)
 
-PKNU Data Analysis Study (2023.02 ~ )
+PKNU Data Analysis Study (2023.02 ~ 2023.12 )
 
 KT AIVLE SCHOOL - DX Consultant (2023.02 ~ 2023.07)
 
