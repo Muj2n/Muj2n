@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20My%20Space👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20MuJin%20Space👋&fontSize=50)
 
 
 
@@ -22,7 +22,7 @@ Financial Data Analysis Study (2022.09 ~ 2022.12)
 
 
 ## 📝 Portfolio
-<a href="[https://muj2n.notion.site/Hello-I-m-MuJin-Shin-998cb57712644c1b83d72b6b9c5c3095](https://www.notion.so/muj2n/PortFolio-bb951999ab1644b18dc9217826f9e135)" target="_blank"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://muj2n.notion.site/Hello-I-m-MuJin-Shin-998cb57712644c1b83d72b6b9c5c3095" target="_blank"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></img>
