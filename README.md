@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=20MuJin👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&MuJin👋&fontSize=50)
 
 
 
